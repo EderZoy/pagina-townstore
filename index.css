@@ -87,7 +87,7 @@ header a:hover{
     text-align: center;
     flex-direction: column;
     /*background-color: black;*/
-    background-image: url(fondo_Negro.webp);
+    background-image: url("media/fononegro.png");
     color: white;
     height: 90vh;
     background-repeat: no-repeat;
@@ -110,7 +110,7 @@ header a:hover{
 }
 
 #productos{
-    background-image: url(fondo_Negro.webp);
+    background-image: url("media/fononegro.png");
     color:white;
     text-align: center;
     background-position: center center;
